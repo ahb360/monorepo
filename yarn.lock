@@ -1328,7 +1328,7 @@
 
 "base-components@file:/Users/amir/Projects/tmp/monorepo/packages/BaseComponents":
   "resolved" "file:packages/BaseComponents"
-  "version" "1.0.1"
+  "version" "1.0.2"
 
 "base64-js@^1.3.1":
   "integrity" "sha512-AKpaYlHn8t4SVbOHCy+b5+KKgvR4vrsD8vbvrbiQJps7fKDTkjkDry6ji0rUJjC0kzbNePLwzxq8iypo41qeWA=="
@@ -1337,7 +1337,7 @@
 
 "basecomponents@*":
   "resolved" "file:packages/BaseComponents"
-  "version" "1.0.1"
+  "version" "1.0.2"
 
 "before-after-hook@^2.2.0":
   "integrity" "sha512-NzUnlZexiaH/46WDhANlyR2bXRopNg4F/zuSA3OpZnllCUgRaOF2znDioDWrmbNVsuZk6l9pMquQB38cfBZwkQ=="
