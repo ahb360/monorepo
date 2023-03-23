@@ -2,6 +2,7 @@
   <div class="about">
     <base-button></base-button>
     <br>
+    I am changing one of the packages
     <base-input></base-input>
   </div>
 </template>
