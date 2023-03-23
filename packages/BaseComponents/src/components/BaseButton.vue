@@ -1,6 +1,6 @@
 <template>
   <div>
-    Base Button 6th
+    Base Button 7th
   </div>
 </template>
 

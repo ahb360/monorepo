@@ -6007,7 +6007,7 @@
 
 "vue-project@file:/Users/amir/Projects/tmp/monorepo/packages/vue-project":
   "resolved" "file:packages/vue-project"
-  "version" "0.0.0"
+  "version" "0.0.1"
   dependencies:
     "basecomponents" "*"
     "pinia" "^2.0.32"

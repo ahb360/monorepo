@@ -4,6 +4,8 @@
     <br>
     I am changing one of the packages
     <base-input></base-input>
+
+    More changes
   </div>
 </template>
 
