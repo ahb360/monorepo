@@ -1,6 +1,7 @@
 <template>
   <div class="about">
     <base-button></base-button>
+    <br>
     <base-input></base-input>
   </div>
 </template>
