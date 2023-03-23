@@ -6,6 +6,9 @@
   "files": [
     "dist"
   ],
+  "publishConfig": {
+    "directory": "dist"
+  },
   "main": "./dist/base-components.cjs.js",
   "module": "./dist/base-components.es.js",
   "umd:main": "./dist/base-components.umd.js",
